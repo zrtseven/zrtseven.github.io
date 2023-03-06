@@ -213,5 +213,78 @@
             }
           
         ]
+    },
+    "xiaofeng397": {
+        "url": "https://www.jiliasia.com/?pid=50jilivip",
+        "isToPage": false,
+        "isAlert": true,
+        "countryCodes": ["TR","PH","BR"],
+        "adjustParams": [
+            {
+                "name": "deposit-success",
+                "value": "l6pw1q"
+            },
+            {
+                "name": "signup-success",
+                "value": "5b8yjo"
+            },
+            {
+                "name": "first-deposit-success",
+                "value": "hqfmfs"
+            },
+            {
+                "name": "first-recharge-success",
+                "value": "41dewd"
+            },
+            {
+                "name": "register-success",
+                "value": "xpi5m5"
+            },
+            {
+                "name": "register",
+                "value": "pcje37"
+            },
+            {
+                "name": "firstDeposit",
+                "value": "ths5vo"
+            }
+        ]
+    },
+    "xiaofeng398": {
+        "url": "https://www.90jili.com/index?affiliateCode=haha11",
+        "isToPage": false,
+        "isAlert": false,
+         "countryCodes": ["TR","PH","BR"],
+        "adjustParams": [
+            {
+                "name": "deposit-success",
+                "value": "sr3uha"
+            },
+            {
+                "name": "signup-success",
+                "value": "q4vtvb"
+            },
+            {
+                "name": "first-deposit-success",
+                "value": "qwfuev"
+            },
+            {
+                "name": "first-recharge-success",
+                "value": "ks2nts"
+            },
+            {
+                "name": "register-success",
+                "value": "sbhfgg"
+            },
+            {
+                "name": "register",
+                "value": "f18wic"
+            },
+            {
+                "name": "firstDeposit",
+                "value": "ze4oa5"
+            }
+          
+        ]
     }
 }
