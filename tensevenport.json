@@ -181,7 +181,7 @@
         "url": "https://www.90jili.com/index?affiliateCode=haha11",
         "isToPage": true,
         "isAlert": false,
-         "countryCodes": ["TR","PH","BR"],
+         "countryCodes": ["TR","PH","HK"],
         "adjustParams": [
             {
                 "name": "deposit-success",
