@@ -1,7 +1,7 @@
 {
     "xiaofeng391": {
         "url": "https://www.90jili.com/index?affiliateCode=haha11",
-        "isToPage": true,
+        "isToPage": false,
         "isAlert": false,
          "countryCodes": ["TR","PH","BR"],
         "adjustParams": [
@@ -73,7 +73,7 @@
     },
     "xiaofeng393": {
         "url": "https://www.bwinone8.com/?pid=pogo0121",
-        "isToPage": true,
+        "isToPage": false,
         "isAlert": false,
         "adjustParams": [
             {
@@ -108,7 +108,7 @@
     },
     "xiaofeng394": {
         "url": "https://www.jiliasia.com/?pid=50jilivip",
-        "isToPage": true,
+        "isToPage": false,
         "isAlert": true,
         "adjustParams": [
             {
