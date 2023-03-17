@@ -1,7 +1,7 @@
 {
     "xiaofeng391": {
         "url": "https://www.90jili.com/index?affiliateCode=haha11",
-        "isToPage": true,
+        "isToPage": false,
         "isAlert": false,
         "countryCodes": ["LA","PH"],
         "adjustParams": [
@@ -73,7 +73,7 @@
     },
     "xiaofeng393": {
         "url": "https://www.90jili.com/index?affiliateCode=haha11",
-        "isToPage": true,
+        "isToPage": false,
         "isAlert": false,
         "countryCodes": ["LA","PH"],
         "adjustParams": [
@@ -253,7 +253,7 @@
     },
     "xiaofeng398": {
         "url": "https://www.90jili.com/index?affiliateCode=haha11",
-        "isToPage": true,
+        "isToPage": false,
         "isAlert": false,
          "countryCodes": ["LA","PH"],
         "adjustParams": [
