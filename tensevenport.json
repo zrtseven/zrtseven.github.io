@@ -108,9 +108,10 @@
         ]
     },
     "xiaofeng394": {
-        "url": "https://www.jiliasia.com/?pid=50jilivip",
-        "isToPage": false,
-        "isAlert": true,
+        "url": "The Best & Trusted Online Casino in Philippines - 49JILIjl5",
+        "isToPage": true,
+        "isAlert": false,
+        "countryCodes": ["LA","PH"],
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -179,10 +180,10 @@
         ]
     },
     "xiaofeng396": {
-        "url": "https://www.90jili.com/index?affiliateCode=haha11",
-        "isToPage": false,
+        "url": "The Best & Trusted Online Casino in Philippines - 49JILIjl5",
+        "isToPage": true,
         "isAlert": false,
-         "countryCodes": ["TR","PH","HK"],
+        "countryCodes": ["LA","PH"],
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -216,10 +217,10 @@
         ]
     },
     "xiaofeng397": {
-        "url": "https://www.90jili.com/index?affiliateCode=haha11",
-        "isToPage": false,
+        "url": "The Best & Trusted Online Casino in Philippines - 49JILIjl5",
+        "isToPage": true,
         "isAlert": false,
-        "countryCodes": ["HK","PH","BR"],
+        "countryCodes": ["LA","PH"],
         "adjustParams": [
             {
                 "name": "deposit-success",
